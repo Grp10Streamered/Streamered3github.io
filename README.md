@@ -54,9 +54,9 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
- <a href="file:///C:/Users/Administrator/Documents/LL2.htm">Home</a>
-<a href="file:///C:/Users/Administrator/Documents/LL2%20part2.htm">Viewer analysis and Characteristics of a good stream</a>
-  <a href="file:///C:/Users/Administrator/Documents/GXG2.htm">Contents</a>
+ <a href="https://grp10streamered.github.io/Streamered2github.io/">Home</a>
+<a href="https://grp10streamered.github.io/Streamered3github.io/">Viewer analysis and Characteristics of a good stream</a>
+  <a href="https://grp10streamered.github.io/Streamered4github.io/">Contents</a>
   <a href="https://grp10streamered.github.io/Streameredgithub.io/">Contact And Sources</a>
 </div>
 
@@ -66,7 +66,7 @@ body {
 
 <body style="background-color:black;color:white">
 
-<img src="/images/STREAMERED.jpg" alt="STREAMERED" style="width="350" height="250">
+<iframe width="888" height="444" src="https://docs.google.com/presentation/d/1WHYS5r-tcbPNOByU1q1gTi5Q77XoxaP-EgfCPA9Vkh0/edit?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div id="main">
@@ -139,5 +139,3 @@ function closeNav() {
 <li>Lively</li>
 <li>Not toxic</li>
 </p>
-
-</div>
